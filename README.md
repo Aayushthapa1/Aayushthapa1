@@ -11,7 +11,12 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <!-- Add your social media links here -->
+  <a href="https://www.linkedin.com/in/aayush-thapa-85661b274/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/Aayushthapa1" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
 </p>
 
 ## 🛠️ Languages and Tools
@@ -78,7 +83,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
-
 
 ## 📊 GitHub Stats
 
