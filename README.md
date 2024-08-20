@@ -82,10 +82,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushthapa1&show_icons=true&locale=en&layout=compact" alt="aayushthapa1" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushthapa1&show_icons=true&locale=en" alt="aayushthapa1" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushthapa1&" alt="aayushthapa1" />
 </p>
