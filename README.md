@@ -10,7 +10,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left" className="flex space-x-4">
+<p align="left" className="flex space-x-24">
   <a href="https://www.linkedin.com/in/aayush-thapa-85661b274/" target="_blank" rel="noreferrer" >
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
