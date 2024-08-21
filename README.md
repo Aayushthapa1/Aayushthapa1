@@ -11,7 +11,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aayush-thapa-85661b274/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/aayush-thapa-85661b274/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/Aayushthapa1" target="_blank" rel="noreferrer">
