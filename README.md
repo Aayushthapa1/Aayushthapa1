@@ -21,7 +21,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p className="flex flex-wrap space-x-6 space-y-4">
+<p className="flex flex-wrap space-y-4">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
