@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Thapa</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Enthusiast for Design and Developments</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushthapa1&label=Profile%20views&color=0e75b6&style=flat" alt="aayushthapa1" />
